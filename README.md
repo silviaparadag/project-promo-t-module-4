@@ -1,10 +1,7 @@
 
+<img width="981" alt="pjw" src="https://github.com/silviaparadag/project-promo-t-module-4/assets/130361802/73637819-bae9-4f77-be7c-2b5ba3ba09c9">
 
-![Adalab](https://beta.adalab.es/resources/images/adalab-logo-155x61-bg-white.png)
-
-
-
-# MODULE 4 | Team project: Adalabers portfolio platform
+# "Programadoras Junior" An Adalabers portfolio platform
 
 ## Summary
 We have been asked to create a website to create a digital portfolio of projects for Adalabers developers to present their best projects.
@@ -37,37 +34,83 @@ In this case, EJS has been used for template creation.
 
 All data is stored in a FreeDB database, which we have worked on connected through MySQL Workbench,
 
-## Team members: 👩🏻‍💻👩🏻‍💻👩🏼‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻
+## ⚒️ | Tools
 
-- **Aida Blaya** @Aidablaya
-- **Andrea Ferreiro** @AndreaFerreiro
-- **Silvia Parada** @silviaparadag
-- **Rebeca Serrano** @rebanada
-- **Celia Suarez** @CeliaMSB
-- **Irene Talaveroo** @IreneTaPa
-
-
-## Tools: ⚒️
-
-- `HTML, CSS, SASS, JS, React Framework, JSX, EJS, NodeJS`
-- `Zeplin`
-- `Vs Code`
-- `GitHub` `Git`
-- `React Starter Kit`
+- `HTML`
+- `CSS, Saas`
+- `JavaScript`
+- `React`
+- `JSX`
+- `EJS`
+- `NodeJS`
 - `MySQL Workbench`
 - `FreeDB`
 - `Render`
+- `Visual Studio Code`
+- `Zeplin`
+- `GitHub`
+- `GitHub Pages`
+- `Agile-Scrum` with GitHub Projects for team organization & coordination *(sprints/dailies/board panel/backlog)*
+
+&nbsp;
+
+## 🎲 | Getting started
+
+1. To start the project, download or fork the repository.
+
+2. To install NPM packages & dependencies, run the following line in your terminal:
+
+~~~
+npm install
+~~~
+
+3. To be able to view the page in the browser, run:
+
+~~~
+npm start
+~~~
+
+> **Note** In this project, we can find the following files and folders:
+>
+>- The folder 📂 `src/` is the files of this web page: HTML, SCSS, JavaScript and images.
+>- The folders 📚 `public/` and `docs/`, are generated automatically when we start the project. GULP reads the files found in the src/ folder, processes them and then generates them inside `public/` and `docs/`.
+>- Other 📝 files found in the repository root as 'gulpfile.js', 'package.json', etc. are configuration files and we don't need to modify them.
+>- To publish on GitHub Pages and generate your page for production run the command: `npm run githubpages`
+
+&nbsp;
+
+## MODULE 3 | 👩🏻‍💻👩🏻‍💻👩🏼‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻 Team project
+
+&nbsp;
+🔸 **Aida Blaya** @Aidablaya
+
+&nbsp;
+🔸 **Andrea Ferreiro** @AndreaFerreiro
+
+&nbsp;
+🔸 **Silvia Parada** @silviaparadag
+
+&nbsp;
+🔸 **Rebeca Serrano** @rebanada
+
+&nbsp;
+🔸 **Celia Suarez** @CeliaMSB
+
+&nbsp;
+🔸 **Irene Talaver<img width="981" alt="pjw" src="https://github.com/silviaparadag/project-promo-t-module-4/assets/130361802/42e56142-c679-44b9-813a-40cb0f30075e">
+o** @IreneTaPa
+
+&nbsp;
 
 This project has been supervised by:
 
-- **Dayana Romero** @dayanare
-- **Iván Garrido** @igarrido-adalab
-- **Yanelis Serrano** @ytaylordev
+&nbsp;
+🔹 **Dayana Romero** @dayanare
 
-  
-  
-## 💫 _y con eso... ¡Ya estaría!_ 💫  
+&nbsp;
+🔹 **Iván Garrido** @igarrido-adalab
 
+&nbsp;
+🔹 **Yanelis Serrano** @ytaylordev
 
 © Adalab 2023 | Trótula Promotion
-
