@@ -97,8 +97,7 @@ npm start
 🔸 **Celia Suarez** @CeliaMSB
 
 &nbsp;
-🔸 **Irene Talaver<img width="981" alt="pjw" src="https://github.com/silviaparadag/project-promo-t-module-4/assets/130361802/42e56142-c679-44b9-813a-40cb0f30075e">
-o** @IreneTaPa
+🔸 **Irene Talavero** @IreneTaPa
 
 &nbsp;
 
